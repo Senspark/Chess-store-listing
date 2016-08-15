@@ -1,0 +1,17 @@
+Gold Miner ve geliştirici - kullanıcı milyonlarca .. Ban Trung, Lines 98 - Dao Vang, Egg vur.
+
+oynayan ve satranç ile kendinizi zor tadını çıkarın! 10 AI düzeyleri ile bilgisayara karşı oynayın.
+
+Özellikler:
+- Satranç parça Çoklu ayarlar. Destek 2D ve 3D grafikler.
+- 3 farklı panoları.
+- Zorluk 10 seviyeleri.
+- Komik fon müziği ve çeşitli oyun geliyor.
+
+Bizimle iletişime geçin:
+- Http://www.senspark.com adresindeki resmi sitesini ziyaret edin
+- Feedback@senspark.com üzerinden görüşlerinizi gönderin
+- Gibi & https://www.facebook.com/TeamSenspark takip
+
+Satranç, iki oyuncu arasında oynanan bir zeka oyunudur. Bu sekiz-by-sekiz ızgara düzenlenmiş 64 kareler bir kare kareli tahta bir satranç tahtası, üzerinde oynanır.
+1 kral, 1 kraliçe, 2 fil, 2 şövalyeler, 2 kaleler ve 8 piyon: Oyunun başında her oyuncuya onaltı adet kontrol eder. Oyunun amacı kral derhal saldırı altında (in 'kontrol') ve kaldırmak veya bir sonraki hareket saldırılara karşı savunmak için hiçbir yolu yoktur sayede, rakibin şahını mat etmektir.

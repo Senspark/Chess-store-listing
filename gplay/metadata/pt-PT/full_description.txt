@@ -1,0 +1,17 @@
+Desde o desenvolvedor Garimpeiro - Dao Vang, Shoot Egg - Ban Trung, Linhas 98 .. com milhões de usuários.
+
+Divirta-se jogando e desafiando-se com xadrez! Jogar contra o computador, com 10 níveis de AI.
+
+Características:
+- Vários conjuntos de peça de xadrez. suporte gráfico 2D e 3D.
+- 3 placas diferentes.
+- 10 níveis de dificuldade.
+- Engraçado música de fundo e vários jogabilidade parece.
+
+Entre Em Contato Conosco:
+- Visite o nosso site oficial em http://www.senspark.com
+- Feedback via feedback@senspark.com
+- Como & siga em https://www.facebook.com/TeamSenspark
+
+O xadrez é um jogo de tabuleiro disputado entre dois jogadores. É jogado em um tabuleiro de xadrez, que é um tabuleiro quadrado-checkered com 64 quadrados dispostos em uma grade de oito por oito.
+No início do jogo, cada jogador controla dezesseis peças: 1 rei, 1 rainha, 2 bispos, 2 cavalos, 2 torres e 8 peões. O objetivo do jogo é dar xeque-mate ao rei adversário, em que o rei está sob ataque imediato (em "check") e não há nenhuma maneira de remover ou defendê-la do ataque no movimento seguinte.

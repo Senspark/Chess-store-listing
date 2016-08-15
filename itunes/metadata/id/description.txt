@@ -1,0 +1,17 @@
+Dari pengembang penambang emas - Dao Vang, menembak telur - Ban Trung, Baris 98 .. dengan jutaan pengguna.
+
+Menikmati bermain dan menantang diri Anda dengan Chess! Bermain melawan komputer dengan 10 tingkat AI.
+
+Fitur:
+- Beberapa set piece catur. Dukungan grafis 2D dan 3D.
+- 3 papan yang berbeda.
+- 10 tingkat kesulitan.
+- Musik latar belakang lucu dan berbagai gameplay suara.
+
+Hubungi kami:
+- Kunjungi situs resmi kami di http://www.senspark.com
+- Kirim masukan Anda melalui feedback@senspark.com
+- Seperti & ikuti di https://www.facebook.com/TeamSenspark
+
+Catur adalah permainan papan yang dimainkan antara dua pemain. Hal ini dimainkan di papan catur, yang merupakan papan persegi-kotak dengan 64 kotak diatur dalam grid delapan kali delapan.
+Pada awal permainan, setiap pemain mengontrol enam belas potongan: 1 king, 1 queen, 2 uskup, 2 ksatria, 2 rooks dan 8 pion. Tujuan dari permainan ini adalah untuk sekak raja lawan, dimana raja diserang langsung (di 'check') dan tidak ada cara untuk menghapus atau mempertahankannya dari serangan pada langkah berikutnya.

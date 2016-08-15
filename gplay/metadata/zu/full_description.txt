@@ -1,0 +1,17 @@
+Kusukela umthuthukisi of Gold Miner - Dao Vang, Tola Egg - Ban Trung, Lines 98 .. nezigidi umsebenzisi.
+
+Jabulela ukudlala futhi inselele ngokwakho nge Chess! Play ngokumelene computer nge 10 amazinga AI.
+
+Izici:
+- Lishona Multiple chess piece. Amaprosesa asekelwe 2D and 3D ihluzo.
+- 3 amabhodi ezahlukene.
+- Amazinga 10 of nobunzima.
+- Music Funny ingemuva kanye Gameplay ehlukahlukene umsindo.
+
+Xhumana nathi:
+- Vakashela ingosi yethu engokomthetho at http://www.senspark.com
+- Thumela impendulo yakho nge feedback@senspark.com
+- Like & ukulandela https://www.facebook.com/TeamSenspark
+
+Chess kuyinto umdlalo webhodi udlalwa emkhatsini abadlali ababili. It is wadlala ebhodini chess, okuyinto ibhodi square-oxube okubi nokuhle 64 tikwele ihlelwe grid ayisishiyagalombili-by-ayisishiyagalombili.
+Ekuqaleni the game, umdlali ngamunye ilawula eyishumi nesithupha izingcezu: 1 inkosi, 1 indlovukazi, ababhishobhi 2, 2 knights, 2 Ehlasela no 8 pawns. Into the game iwukuba checkmate inkosi abaphikisi sika, lapho inkosi iyahlaselwa ngokushesha (e 'hlola') futhi ayikho indlela ukususa noma uvikeleke ekuhlaselweni sendleleni olandelayo.

@@ -1,0 +1,17 @@
+Od razvijalca Gold Miner - Dao Vang, ustrelil jajce - Ban Trung, Lines 98 .. z milijoni uporabnikov.
+
+Uživajte v igro in sami izziv z Chess! Igrajte proti računalniku z 10 stopenj AI.
+
+Lastnosti:
+- Več sklopov šah kosa. Podpora 2D in 3D grafiko.
+- 3 različne plošče.
+- 10 težavnostne stopnje.
+- Funny glasbe v ozadju in različnih igranja zvoki.
+
+Kontaktiraj nas:
+- Obiščite našo uradno stran na http://www.senspark.com
+- Pošljite povratne informacije preko feedback@senspark.com
+- Like in sledite https://www.facebook.com/TeamSenspark
+
+Šah je namizna igra igra med dva igralca. To je igra na šahovnici, ki je kvadratni karirasti plošča z 64 kvadratov, organiziranih v mrežo osem-by-osem.
+Na začetku igre vsak igralec nadzor šestnajst kosov: 1 kralj, 1 kraljica, 2 škofje, 2 vitezi, 2 Rooks in 8 figure. Cilj igre je, da šah-mat nasprotnikovega kralja, s katerim je kralj pod takojšen napad (v "kontrola") in ne obstaja način, da se odstranijo ali pa jo brani pred napadom na naslednji korak.

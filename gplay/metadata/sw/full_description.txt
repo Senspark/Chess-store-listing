@@ -1,0 +1,17 @@
+Kutoka developer ya Gold Miner - Dao Vang, risasi ya yai - Ban Trung, Lines 98 .. na mamilioni ya mtumiaji.
+
+Kufurahia kucheza na changamoto mwenyewe na Chess! Kucheza dhidi ya kompyuta na 10 AI ngazi.
+
+vipengele:
+- Seti mbalimbali ya chess kipande. Support P2 na 3D graphics.
+- 3 bodi mbalimbali.
+- 10 ngazi ya ugumu.
+- Mapenzi background muziki na gameplay mbalimbali sauti.
+
+Wasiliana nasi:
+- Ziara tovuti yetu rasmi katika http://www.senspark.com
+- Tuma maoni yako kupitia feedback@senspark.com
+- Like & kufuata juu https://www.facebook.com/TeamSenspark
+
+Chess ni mchezo wa bodi alicheza kati ya wachezaji wawili. Ni ni kucheza kwenye bodi Chess, ambayo ni bodi za mraba-checkered na viwanja 64 kupangwa katika nane na nane gridi ya taifa.
+Katika mwanzo wa mchezo, kila mchezaji udhibiti vipande kumi na sita: 1 mfalme, 1 malkia, 2 Maaskofu, 2 Knights, 2 rooks na 8 pawns. Lengo la mchezo ni kwa checkmate mfalme mpinzani, ambapo mfalme ni chini ya mashambulizi ya mara moja (katika 'kuangalia') na hakuna njia ya kuondoa au kutetea kutoka mashambulizi ya hoja ya pili.

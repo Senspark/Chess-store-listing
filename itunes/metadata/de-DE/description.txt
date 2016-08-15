@@ -1,0 +1,17 @@
+Von der Entwickler von Gold Miner - Dao Vang, Shoot Egg - Ban Trung, Linien 98 .. mit Millionen Nutzern.
+
+Viel Spaß beim Spielen und herausfordernd, sich mit Schach! Spielen Sie gegen den Computer mit 10 AI Ebenen.
+
+Eigenschaften:
+- Mehrere Sätze von Schachfigur. Unterstützung von 2D- und 3D-Grafiken.
+- 3 verschiedene Bretter.
+- 10 Schwierigkeitsgrade.
+- Lustige Hintergrundmusik und verschiedene Gameplay-Sounds.
+
+Kontaktiere uns:
+- Besuchen Sie unsere offizielle Webseite http://www.senspark.com
+- Senden Sie Ihr Feedback über feedback@senspark.com
+- Like & folgen auf https://www.facebook.com/TeamSenspark
+
+Schach ist ein Brettspiel zwischen zwei Spielern gespielt. Es basiert auf einem Schachbrett gespielt, die ein Quadrat-karierten Brett mit 64 Feldern ist in einem Raster von acht mal acht angeordnet.
+Zu Beginn des Spiels steuert jeder Spieler sechzehn Stücke: 1 König, 1 Königin, 2 Bischöfe, 2 Ritter, 2 Saatkrähen und 8 Bauern. Das Ziel des Spiels ist es, den gegnerischen König matt zu setzen, wobei der König unter sofortigen Angriff ist (in 'Check') und es gibt keinen Weg, um es vor dem Angriff auf den nächsten Zug zu entfernen oder zu verteidigen.

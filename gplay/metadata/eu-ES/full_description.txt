@@ -1,0 +1,17 @@
+Gold Miner sustatzailearen - Dao Vang, Tiro arrautza - Ban Trung, 98 lerro .. erabiltzaile milioika.
+
+Gozatu jolasten eta zure buruari erronka Xake batera! 10 AI mailak ordenagailuaren aurka jolasteko.
+
+Ezaugarriak:
+- Xake pieza multzo anitza. 2D eta 3D grafikoak laguntza.
+- 3 ezberdinak batzordeak.
+- 10 zailtasun maila.
+- Funny atzeko musika eta hainbat jokatzeko soinuak.
+
+Jarri gurekin harremanetan:
+- Gure gune ofiziala bisitatu http://www.senspark.com at
+- Eusko Jaurlaritza feedback@senspark.com bidez
+- Like & jarraitu on https://www.facebook.com/TeamSenspark
+
+Xake bi jokalarien artean jokatu taula joko bat da. Da xake taula bat, eta horrek plaza-checkered 64 plazak zortzi-ek zortzi sareta batean antolatu taula bat da jokatuko.
+1 errege, erregina 1, 2 alfil 2 zaldun, 2 beleak eta 8 peoi: Jokoaren hasieran, jokalari bakoitzak hamasei pieza kontrolatzen du. Jokoaren helburua da aurkariaren errege xake mate egitea, zeinaren erregea berehalako eraso dago (in 'check') eta ez dago modurik kendu edo defendatzeko hurrengo jokaldian erasoa da.

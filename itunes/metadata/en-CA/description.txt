@@ -1,0 +1,17 @@
+From the developer of Gold Miner - Dao Vang, Shoot Egg - Ban Trung, Lines 98 .. with millions of user.
+
+Enjoy playing and challenging yourself with Chess! Play against the computer with 10 AI levels.
+
+Features:
+- Multiple sets of chess piece. Support 2D and 3D graphics.
+- 3 different boards.
+- 10 levels of difficulty.
+- Funny background music and various gameplay sounds.
+
+Contact us:
+- Visit our official site at http://www.senspark.com
+- Send your feedback via feedback@senspark.com
+- Like & follow on https://www.facebook.com/TeamSenspark
+
+Chess is a board game played between two players. It is played on a chess board, which is a square-checkered board with 64 squares arranged in an eight-by-eight grid.
+At beginning of the game, each player controls sixteen pieces: 1 king, 1 queen, 2 bishops, 2 knights, 2 rooks and 8 pawns. The object of the game is to checkmate the opponent's king, whereby the king is under immediate attack (in 'check') and there is no way to remove or defend it from attack on the next move.

@@ -1,0 +1,17 @@
+Van de ontwikkelaar van Gold Miner - Dao Vang, Shoot Egg - Ban Trung, Lijnen 98 .. met miljoenen gebruikers.
+
+Geniet van het spelen en uitdagende jezelf met schaken! Spelen tegen de computer 10 AI levels.
+
+Kenmerken:
+- Meerdere sets van schaakstuk. Ondersteuning van 2D en 3D graphics.
+- 3 verschillende boards.
+- 10 moeilijkheidsgraden.
+- Funny achtergrond muziek en diverse gameplay klinkt.
+
+Neem contact met ons op:
+- Bezoek onze officiële plaats bij http://www.senspark.com
+- Stuur uw terugkoppeling via feedback@senspark.com
+- Net & volg op https://www.facebook.com/TeamSenspark
+
+Schaken is een bordspel gespeeld tussen twee spelers. Het wordt gespeeld op een schaakbord, dat is een vierkant geblokte bord met 64 velden gerangschikt in een acht-voor-acht raster.
+Aan het begin van het spel, elke speler bestuurt zestien stukken: 1 koning, 1 queen, 2 bisschoppen, 2 ridders, 2 torens en 8 pionnen. Het doel van het spel is om de koning van de tegenstander schaakmat te zetten, waarbij de koning onder directe aanval (in 'check') en er is geen manier om te verwijderen of te verdedigen tegen aanvallen op de volgende zet.

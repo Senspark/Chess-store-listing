@@ -1,0 +1,17 @@
+Od developera Gold Miner - Dao Vang, strieľať vajcia - Ban Trung, riadky 98 .. s miliónmi užívateľov.
+
+Baví hrať a náročné sa s šach! Hrať proti počítaču s 10 úrovňami AI.
+
+Vlastnosti:
+- Viac sád šachová figúrka. Podpora 2D a 3D grafika.
+- 3 rôzne dosky.
+- 10 úrovní obtiažnosti.
+- Funny hudbu na pozadí a rôzne herné zvuky.
+
+Kontaktuj nás:
+- Navštívte naše oficiálne webové stránky na http://www.senspark.com
+- Pošli svoj názor prostredníctvom feedback@senspark.com
+- Ako & sledovať na https://www.facebook.com/TeamSenspark
+
+Šach je stolová hra hrá medzi dvoma hráčmi. Hrá sa na šachovnici, čo je štvorcový-kockovaný doska s 64 štvorcov usporiadaných v ôsmich-by-osem siete.
+Na začiatku hry si každý hráč ovláda šestnásť kusov: jeden kráľ, kráľovná 1, 2 biskupi, 2 rytieri, 2 veže a 8 pešiakov. Cieľom hry je dať mat súperovmu kráľovi, pričom kráľ je pod bezprostredný útok (v "check") a nie je tam žiadny spôsob, ako odstrániť alebo brániť ju pred útokom na ďalší ťah.

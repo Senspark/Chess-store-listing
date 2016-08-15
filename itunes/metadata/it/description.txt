@@ -1,0 +1,17 @@
+Dallo sviluppatore di Gold Miner - Dao Vang, spara Egg - Ban Trung, Linee 98 .. con milioni di utenti.
+
+Piace giocare e sfidare se stessi con gli scacchi! Gioca contro il computer con 10 livelli di AI.
+
+Caratteristiche:
+- Più set di pezzo degli scacchi. la grafica di supporto 2D e 3D.
+- 3 schede diverse.
+- 10 livelli di difficoltà.
+- Musica di sottofondo Divertente e vari gameplay suoni.
+
+Contattaci:
+- Visita il nostro sito ufficiale all'indirizzo http://www.senspark.com
+- Invia i tuoi commenti via feedback@senspark.com
+- Come e segui su https://www.facebook.com/TeamSenspark
+
+Gli scacchi sono un gioco da tavolo giocato tra due giocatori. Si gioca su una scacchiera, che è una tavola quadrata a scacchi con 64 caselle disposte in una griglia di otto per otto.
+All'inizio del gioco, ogni giocatore controlla sedici pezzi: 1 Re, 1 regina, 2 vescovi, 2 cavalieri, 2 Rooks e 8 pedine. Lo scopo del gioco è dare scacco matto al re avversario, per cui il re è sotto attacco immediato (a 'controllare'), e non c'è modo di rimuovere o difenderla dagli attacchi sulla prossima mossa.

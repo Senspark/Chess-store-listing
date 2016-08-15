@@ -1,0 +1,17 @@
+Des del desenvolupador de la minera d'or - Dao Vang, Shoot ou - Ban Trung, Línies 98 .. amb milions d'usuaris.
+
+Gaudir jugant i desafiant a si mateix amb escacs! Juga contra l'ordinador amb 10 nivells d'IA.
+
+Característiques:
+- Múltiples conjunts de peça d'escacs. Suport gràfics 2D i 3D.
+- 3 diferents taules.
+- 10 nivells de dificultat.
+- Música de fons divertit joc i diversos sons.
+
+Poseu-vos en contacte amb nosaltres:
+- Visita el nostre lloc oficial en http://www.senspark.com
+- Envia els teus comentaris a través de feedback@senspark.com
+- Igual que en https://www.facebook.com/TeamSenspark i segueix
+
+Els escacs és un joc de taula entre dos jugadors. Es juga en un tauler d'escacs, que és un tauler quadrat a quadres amb 64 ​​places disposades en una quadrícula de vuit per vuit.
+Al principi del joc, cada jugador controla setze peces: 1 King, 1 Queen, 2 bisbes, cavallers 2, 2 torres i 8 peons. L'objectiu del joc és donar escac i mat al rei de l'oponent, pel que el rei està sota atac immediat (en "marcar") i no hi ha manera de treure o de defensar-la dels atacs en el pròxim moviment.

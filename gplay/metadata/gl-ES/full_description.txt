@@ -1,0 +1,17 @@
+Dende o creador Garimpeiro - Dao Vang, Shoot Egg - Ban Trung, Liñas 98 .. con millóns de usuarios.
+
+Disfrútao se xogando e desafiando-se con xadrez! Xogar contra o ordenador, con 10 niveis de AI.
+
+Características:
+- Varios conxuntos de peza de xadrez. soporte gráfico 2D e 3D.
+- 3 placas diferentes.
+- 10 niveis de dificultade.
+- Divertido música de fondo e varios jogabilidade parece.
+
+Contacta connosco:
+- Visita a nosa web oficial en http://www.senspark.com
+- Suxestións vía feedback@senspark.com
+- Como & diríxase https://www.facebook.com/TeamSenspark
+
+O xadrez é un xogo de mesa disputado entre dous xogadores. É xogado nun taboleiro de xadrez, que é un taboleiro cadrado-checkered 64 cadrados dispostos nunha reixa de oito por oito.
+No inicio do xogo, cada xogador controla dezaseis pezas: 1 rei, 1 raíña, 2 bispos, 2 caballos, 2 torres e 8 peóns. O obxectivo do xogo é dar xaque mate ao rei adversario, no que o rei está baixo ataque inmediato (en "check") e non hai ningunha forma de eliminar ou defende-la do ataque no movemento seguinte.

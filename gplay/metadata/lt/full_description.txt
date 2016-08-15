@@ -1,0 +1,17 @@
+Nuo Gold Miner programuotojo - Dao Vang šaudyti kiaušinių - draudžiama Trung, linijos 98 .. su milijonais vartotojui.
+
+Mėgaukitės žaisti ir sudėtinga sau Šachmatai! Žaisti prieš kompiuterį su 10 PG lygiais.
+
+Funkcijos:
+- Keli rinkiniai šachmatų gabalas. Pagalba 2D ir 3D grafika.
+- 3 skirtingos lentos.
+- 10 lygių sudėtingumo.
+- Juokingi fono muzika ir įvairių žaidimo garsai.
+
+Susisiekite su mumis:
+- Aplankykite mūsų oficialų svetainėje adresu http://www.senspark.com
+- Siųsti atsiliepimą per feedback@senspark.com
+- Kaip ir sekite ant https://www.facebook.com/TeamSenspark
+
+Šachmatai yra stalo žaidimas, žaidžiamas tarp dviejų žaidėjų. Jis yra žaidžiamas ant šachmatų lentos, kuris yra kvadratinės languotas lenta su 64 kvadratų išdėstyti aštuonių iki aštuonių tinklelį.
+Pradžioje žaidimo, kiekvienas žaidėjas kontroliuoja šešiolika vienetų: 1 labai didelė, 1 didelė, 2 vyskupai, 2 riteriai, 2 Kovas ir 8 pėstininkai. Žaidimo tikslas yra matas priešininko karalius, kuriuo karalius yra pagal nedelsiant priepuolis (į "patikrinti") ir nėra jokio būdo pašalinti arba apsaugoti jį nuo užpuolimo į kitą žingsnį.

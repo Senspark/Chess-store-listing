@@ -1,0 +1,17 @@
+Desde el desarrollador de la minera de oro - Dao Vang, Shoot huevo - Ban Trung, Líneas 98 .. con millones de usuarios.
+
+Disfrutar jugando y desafiando a sí mismo con ajedrez! Juega contra el ordenador con 10 niveles de IA.
+
+caracteristicas:
+- Múltiples conjuntos de pieza de ajedrez. Soporte gráficos 2D y 3D.
+- 3 diferentes tablas.
+- 10 niveles de dificultad.
+- Música de fondo divertido juego y diversos sonidos.
+
+Contáctenos:
+- Visita nuestro sitio oficial en http://www.senspark.com
+- Envía tus comentarios a través de feedback@senspark.com
+- Al igual que en https://www.facebook.com/TeamSenspark y sigue
+
+El ajedrez es un juego de mesa entre dos jugadores. Se juega en un tablero de ajedrez, que es un tablero cuadrado a cuadros con 64 plazas dispuestas en una cuadrícula de ocho por ocho.
+Al principio del juego, cada jugador controla dieciséis piezas: 1 King, 1 Queen, 2 obispos, caballeros 2, 2 torres y 8 peones. El objetivo del juego es dar jaque mate al rey del oponente, por lo que el rey está bajo ataque inmediato (en "marcar") y no hay manera de quitar o de defenderla de los ataques en el próximo movimiento.

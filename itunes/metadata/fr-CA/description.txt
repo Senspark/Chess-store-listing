@@ -1,0 +1,17 @@
+Depuis le développeur de Gold Miner - Dao Vang, Shoot Egg - Ban Trung, Lignes 98 .. avec des millions d'utilisateurs.
+
+Profitez de jouer et de vous mettre au défi avec Chess! Jouer contre l'ordinateur avec 10 niveaux AI.
+
+Caractéristiques:
+- Plusieurs jeux de pièce d'échecs. graphiques support 2D et 3D.
+- 3 différents conseils.
+- 10 niveaux de difficulté.
+- Musique de fond drôle et divers gameplay sons.
+
+Contactez nous:
+- Visitez notre site officiel à http://www.senspark.com
+- Envoyer vos commentaires via feedback@senspark.com
+- Comme & suivre sur https://www.facebook.com/TeamSenspark
+
+Chess est un jeu de plateau joué entre deux joueurs. Il se joue sur un échiquier, qui est une carte de carrés en damier de 64 cases disposées dans une grille de huit par huit.
+Au début du jeu, chaque joueur contrôle seize pièces: 1 lit king, 1 lit queen, 2 évêques, 2 chevaliers, 2 freux et 8 pions. Le but du jeu est de mater le roi adverse, par laquelle le roi est attaqué immédiatement (en «contrôle») et il n'y a aucun moyen de supprimer ou de le défendre contre les attaques sur le prochain mouvement.

@@ -1,0 +1,17 @@
+Frá verktaki á Gold Miner - Dao Vang, skjóta egg - Ban Trung, línur 98 .. með milljón notandi.
+
+Njóttu spila og krefjandi sjálfur með Chess! Spila á móti tölvunni með 10 AI stigum.
+
+Features:
+- Margar sett af skák stykki. Stuðningur 2D og 3D grafík.
+- 3 mismunandi nefndir.
+- 10 stig erfiðleika.
+- Fyndið bakgrunnur tónlist og ýmis gameplay hljóð.
+
+Hafðu samband við okkur:
+- Heimsókn opinbera síðuna okkar á http://www.senspark.com
+- Senda álit þitt um feedback@senspark.com
+- Eins og fylgja á https://www.facebook.com/TeamSenspark
+
+Skák er a borð leikur spilaður á milli tveggja leikmanna. Það er spilað á skák borð, sem er ferningur-köflótt borð með 64 reitum raðað í átta-fyrir-átta rist.
+Í upphafi leiksins, hver leikmaður stjórna sextán stykki: 1 stórt, 1 queen, 2 biskupar, 2 Knights, 2 Rooks og 8 peð. Markmið leiksins er að máta konungi andstæðingsins, þar sem konungur er undir tafarlausa árás (í 'stöðva') og það er engin leið til að fjarlægja eða verja það frá árás á næsta leik.

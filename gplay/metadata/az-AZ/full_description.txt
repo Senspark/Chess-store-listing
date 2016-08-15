@@ -1,0 +1,17 @@
+Gold Miner geliştirici From - istifadəçi milyonlarla .. Ban Trung, Lines 98 - Dao Vang, Yumurta Shoot.
+
+oynayan və şahmat özünüzü çətin Enjoy! 10 AI səviyyəsi ilə kompüter qarşı oynayır.
+
+Xüsusiyyətləri:
+- Şahmat parça Multiple dəstləri. Support 2D və 3D qrafika.
+- 3 müxtəlif lövhələr.
+- Çətinlik 10 səviyyəsi.
+- Funny fon musiqi və müxtəlif gameplay səslənir.
+
+Bizimlə əlaqə saxlayın:
+- Http://www.senspark.com bizim rəsmi saytına müraciət edin
+- Feedback@senspark.com vasitəsilə Əlaqə göndər
+- Like & https://www.facebook.com/TeamSenspark edin
+
+Chess iki oyunçu arasında oynanan bir board oyun. Bu səkkiz-by-səkkiz grid təşkil 64 meydanların bir kvadrat kareli board bir şahmat board oynanır.
+1 king, 1 queen, 2 piskoposlar, 2 cəngavərlər, 2 Rooks və 8 piyonlar: Oyunun əvvəlində, hər bir oyunçu on altı ədəd nəzarət edir. Oyunun obyekt king dərhal hücum altında (in "yoxlamaq ') və aradan qaldırılması və ya növbəti hərəkət hücum onu ​​müdafiə etmək üçün heç bir yolu yoxdur vasitəsi, rəqib padşah mat edir.

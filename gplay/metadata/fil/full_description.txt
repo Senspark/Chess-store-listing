@@ -1,0 +1,17 @@
+Mula sa developer ng Gold Miner - Dao Vang, Abutin Egg - Ban Trung, Lines 98 .. may milyon-milyong mga gumagamit.
+
+Masiyahan sa paglalaro at hamon ang iyong sarili na may Chess! Play laban sa computer na may 10 mga antas Ai.
+
+Mga tampok:
+- Maramihang mga hanay ng chess piraso. Suporta 2D at 3D graphics.
+- 3 iba't ibang boards.
+- 10 antas ng kahirapan.
+- Nakakatawang background music at iba't-ibang gameplay tunog.
+
+Makipag-ugnayan sa amin:
+- Bisitahin ang aming opisyal na site sa http://www.senspark.com
+- Ipadala ang iyong puna sa pamamagitan ng feedback@senspark.com
+- Like & sundin sa https://www.facebook.com/TeamSenspark
+
+Chess ay isang board game na nilalaro sa pagitan ng dalawang manlalaro. Ito ay nilalaro sa isang chess board, na kung saan ay isang parisukat na-papalit-palit board na may 64 parisukat isagawa sa isang walong-by-walong grid.
+Sa simula ng laro, ang bawat manlalaro kontrol labing-anim na piraso: 1 hari, 1 queen, 2 obispo, 2 knights, 2 rooks at 8 pawns. Ang object ng laro ay sa pagtalo hari ang kalaban, kung saan ang hari ay agad na napailalim atake (sa 'check') at walang paraan upang alisin o ipagtanggol ito mula sa pag-atake sa susunod na ilipat.

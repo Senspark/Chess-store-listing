@@ -1,0 +1,17 @@
+Från utvecklaren av Gold Miner - Dao Vang, skjuta ägg - Ban Trung, Lines 98 .. med miljontals användare.
+
+Njut av att spela och utmana dig själv med Chess! Spela mot datorn med 10 AI nivåer.
+
+Funktioner:
+- Flera uppsättningar av schackpjäs. Support 2D och 3D-grafik.
+- 3 olika bräda.
+- 10 olika svårighetsgrader.
+- Rolig bakgrundsmusik och olika spelljud.
+
+Kontakta oss:
+- Besök vår officiella hemsida på http://www.senspark.com
+- Skicka feedback via feedback@senspark.com
+- Som och följ på https://www.facebook.com/TeamSenspark
+
+Schack är ett brädspel spelas mellan två spelare. Det spelas på ett schackbräde, som är en kvadratisk rutig styrelse med 64 rutor arrangerade i en åtta-by-åtta rutnät.
+Vid början av spelet, kontrollerar varje spelare sexton stycken: en kung, 1 drottning, 2 biskopar, 2 riddare, 2 torn och 8 bönder. Målet med spelet är att schackmatt motståndarens kung, där kungen är under direkt attack (i "kontrollera") och det finns inget sätt att ta bort eller försvara den från angrepp på nästa drag.

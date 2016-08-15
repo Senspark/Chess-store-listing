@@ -1,0 +1,17 @@
+A fejlesztő a Gold Miner - Dao Vang, lő Egg - Ban Trung, Lines 98 .. több millió felhasználó.
+
+Élvezze a játékot, és kihívást jelentő magát Chess! Játssz a számítógép ellen, 10 AI szinten.
+
+Jellemzők:
+- Több féle sakk darab. Támogatás a 2D és 3D grafika.
+- 3 különböző táblák.
+- 10 nehézségi fokot.
+- Vicces háttérzene és különböző játékélményt ad.
+
+Lépjen kapcsolatba velünk:
+- Látogassa meg a hivatalos site-on http://www.senspark.com
+- Küldj visszajelzést keresztül feedback@senspark.com
+- Mint & követik https://www.facebook.com/TeamSenspark
+
+A sakk társasjáték játszott a két játékos. Nem játszott egy sakktábla, amely egy négyzet kockás tábla 64 négyzetek elrendezni, nyolc nyolcas rács.
+Elején a játék, minden játékos irányít tizenhat darab: 1 king, 1 queen, 2 püspökök, 2 lovagot, 2 bástyák és 8 gyalog. A cél a játék lényege, hogy sakk-matt az ellenfél királyának, ahol a király alatt azonnali támadás (az "ellenőrzés"), és nincs módja annak, hogy távolítsa el vagy megvédeni a támadásoktól a következő lépés.

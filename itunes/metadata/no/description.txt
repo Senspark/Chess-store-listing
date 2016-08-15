@@ -1,0 +1,17 @@
+Fra utvikleren av Gold Miner - Dao Vang, Shoot Egg - Ban Trung, Linjer 98 .. med millioner av bruker.
+
+Liker å spille og utfordre deg selv med Chess! Spill mot datamaskinen med 10 AI nivåer.
+
+Egenskaper:
+- Flere sett med sjakkbrikke. Støtte 2D- og 3D-grafikk.
+- 3 forskjellige brett.
+- 10 vanskelighetsgrader.
+- Funny bakgrunnsmusikk og ulike gameplay lyder.
+
+Kontakt oss:
+- Besøk vår offisielle hjemmeside på http://www.senspark.com
+- Send tilbakemelding via feedback@senspark.com
+- Like & følge på https://www.facebook.com/TeamSenspark
+
+Sjakk er et brettspill som spilles mellom to spillere. Det spilles på et sjakkbrett, som er en firkant-rutete brett med 64 ruter arrangert i en åtte-by-åtte rutenett.
+I begynnelsen av spillet, kontrollerer hver spiller seksten stykker: en konge, 1 stor, 2 biskoper, 2 riddere, 2 tårn og 8 bønder. Målet med spillet er å matte motstanderens konge, der kongen er under umiddelbar angrep (i "check") og det er ingen måte å fjerne eller forsvare den mot angrep på neste trekk.

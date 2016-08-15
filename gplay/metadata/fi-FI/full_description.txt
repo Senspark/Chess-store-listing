@@ -1,0 +1,17 @@
+Vuodesta kehittäjä Gold Miner - Dao Vang, ampua muna - Ban Trung, Lines 98 .. miljoonia käyttäjä.
+
+Nauttia pelaa ja haastava itseäsi Chess! Pelata tietokonetta 10 AI tasoa.
+
+Ominaisuudet:
+- Useita sarjaa shakkinappula. Tuki 2D- ja 3D-grafiikkaa.
+- 3 eri levyt.
+- 10 vaikeustasoa.
+- Funny taustamusiikkia ja erilaisia ​​pelin ääniä.
+
+Ota meihin yhteyttä:
+- Käy virallisella sivustolla osoitteessa http://www.senspark.com
+- Lähetä palautetta kautta feedback@senspark.com
+- Like & seurata https://www.facebook.com/TeamSenspark
+
+Shakki on lautapeli pelataan kahden pelaajaa. Sitä pelataan shakkilaudalla, joka on neliön ruudullinen kartonkia 64 ruutua järjestetty kahdeksan by-kahdeksan ruudukko.
+Alussa peli, jokainen pelaaja ohjaa kuusitoista kappaletta: 1 kuningas, 1 kuningatar, 2 piispat, 2 ritarit, 2 tornia ja 8 sotilasta. Tavoitteena peli on matti vastustajan kuningas, jonka kuningas on alle välittömästi hyökkäyksen (in "check") ja ei ole mitään keinoa poistaa tai puolustaa sitä hyökkäys seuraavan siirron.

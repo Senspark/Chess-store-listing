@@ -1,0 +1,17 @@
+Fra udvikleren af ​​Gold Miner - Dao Vang, Shoot Egg - Ban Trung, Lines 98 .. med millioner af brugere.
+
+Nyd at spille og udfordre dig selv med skak! Spil mod computeren med 10 AI niveauer.
+
+Funktioner:
+- Flere sæt skakbrik. Support 2D og 3D-grafik.
+- 3 forskellige bestyrelser.
+- 10 sværhedsgrader.
+- Funny baggrundsmusik og forskellige gameplay lyder.
+
+Kontakt os:
+- Besøg vores officielle hjemmeside på http://www.senspark.com
+- Send din tilbagemelding via feedback@senspark.com
+- Ligesom & følg på https://www.facebook.com/TeamSenspark
+
+Skak er et brætspil spilles mellem to spillere. Det spilles på et skakbræt, som er et kvadrat-ternet bræt med 64 felter arrangeret i en otte-by-otte gitter.
+Ved begyndelsen af ​​spillet, hver spiller kontrollerer seksten stykker: en konge, 1 dronning, 2 biskopper, 2 riddere, 2 råger og 8 bønder. Formålet med spillet er at skakmat modstanderens konge, hvor kongen er under direkte angreb (i 'check'), og der er ingen måde at fjerne eller forsvare det fra angreb på det næste træk.

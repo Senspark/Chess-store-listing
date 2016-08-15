@@ -1,0 +1,17 @@
+Od razvojnog Gold Miner - Dao Vang, pucati jaje - Ban Trung, linije 98 .. s milijunima korisnika.
+
+Uživajte u igri i sami izazovna sa Šah! Igraj protiv računala s 10 razina AI.
+
+Značajke:
+- Više kompleta za šah komada. Podrška 2D i 3D grafike.
+- 3 različite zajednice.
+- 10 razina težine.
+- Smiješno pozadinske glazbe i razne igre zvuči.
+
+Kontaktirajte nas:
+- Posjetite našu službenu stranicu na http://www.senspark.com
+- Pošaljite povratne informacije putem feedback@senspark.com
+- Kao i pratiti na https://www.facebook.com/TeamSenspark
+
+Šah je igra na ploči igra između dva igrača. On je igrao na šahovskoj ploči, koja je četvrtastog šarena ploča sa 64 kvadrata uređenih u osam-po-osam mrežu.
+Na početku igre, svaki igrač kontrolira šesnaest komada: jedan kralj, 1 queen, 2 biskupi, 2 vitešku, 2 rooks i 8 pijuni. Cilj igre je matirati protivnikovog kralja, pri čemu je kralj pod direktnim napadom (u 'check') i ne postoji način da se ukloni ili braniti ga od napada na sljedeći potez.

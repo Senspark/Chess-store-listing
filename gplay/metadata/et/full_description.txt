@@ -1,0 +1,17 @@
+Alates arendaja Gold Miner - Dao Vang, Shoot muna - Ban Trung, Lines 98 .. miljoneid kasutaja.
+
+Nautida mängimine ja väljakutset ennast Chess! Play vastu arvuti 10 AI taset.
+
+Omadused:
+- Mitu komplekti Malend. Toetus 2D ja 3D graafika.
+- 3 erinevat lauad.
+- 10 raskusastet.
+- Lõbus taustamuusika ja erinevate gameplay kõlab.
+
+Võta meiega ühendust:
+- Külasta meie ametlik veebileht aadressil http://www.senspark.com
+- Saada oma tagasiside kaudu feedback@senspark.com
+- Nagu & jätkuks https://www.facebook.com/TeamSenspark
+
+Male on lauamäng mängitakse kahe mängijad. Seda mängitakse malelaual, mis on ruudu-ruuduline pardal 64 ruutu paigutatud kaheksa-by-kaheksa võrku.
+Alguses mängu, iga mängija kontrollib kuusteist tükki: 1 king, 1 queen, 2 piiskopid, 2 ratsut, 2 vankrit ja 8 etturid. Objekti mäng on matistada vastase kuningas, kusjuures king on alla kohese rünnaku (in "kontroll") ja puudub võimalus eemaldada või seda kaitsma rünnaku järgmise käigu.

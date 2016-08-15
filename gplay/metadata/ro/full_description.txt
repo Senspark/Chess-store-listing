@@ -1,0 +1,17 @@
+De la dezvoltator de aur miner - Dao Vang, trage ou - Ban Trung, Linii 98 .. cu milioane de utilizatori.
+
+Bucurați-vă de joc și provocatoare te cu Șah! Joaca impotriva calculatorului cu 10 nivele AI.
+
+Caracteristici:
+- Seturi multiple de piesă de șah. grafica suport 2D și 3D.
+- 3 placi diferite.
+- 10 nivele de dificultate.
+- Muzica de fundal amuzant și diverse gameplay-ul sunete.
+
+Contacteaza-ne:
+- Vizitati site-ul nostru oficial de la http://www.senspark.com
+- Trimite feedback-ul prin feedback@senspark.com
+- La fel ca și urmați pe https://www.facebook.com/TeamSenspark
+
+Șah este un joc jucat între doi jucători. Acesta este jucat pe o tablă de șah, care este o placă pătrată în carouri, cu 64 de pătrate aranjate într-o grilă de opt-de-opt.
+La începutul jocului, fiecare jucător controlează șaisprezece bucăți: 1 rege, 1 regina, 2 episcopi, 2 cavaleri, 2 Rooks și 8 pioni. Obiectivul jocului este de a face șah-mat regele adversarului, prin care regele este sub atac imediat (în "check") și nu există nici o modalitate de a elimina sau a-l apăra de atac la următoarea mișcare.

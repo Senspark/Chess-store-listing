@@ -1,0 +1,17 @@
+No attīstītājs Gold Miner - Dao Vang, Shoot olu - Ban Vidējā, Lines 98 .. ar miljoniem lietotāju.
+
+Baudīt spēles un izaicinājumu sevi ar šahu! Spēlē pret datoru ar 10 AI līmeni.
+
+Iespējas:
+- Vairāki komplekti šaha gabalu. Atbalsts 2D un 3D grafika.
+- 3 dažādas dēļi.
+- 10 līmeņu grūtībās.
+- Funny fona mūzika un dažādi spēle skaņas.
+
+Sazinies ar mums:
+- Apmeklējiet mūsu oficiālo vietni http://www.senspark.com
+- Nosūtīt atsauksmes via feedback@senspark.com
+- Tāpat kā un seko https://www.facebook.com/TeamSenspark
+
+Šahs ir galda spēle starp diviem spēlētājiem. Tā ir bijusi uz šaha galdiņš, kas ir kvadrātveida rūtains padomei izkārtoti astoņu ar astoņām tīklam 64 kvadrātos.
+Sākumā spēli, katrs spēlētājs kontrolē sešpadsmit gabali: 1 King, 1 Queen, 2 bīskapi, 2 bruņinieki, 2 Rooks un 8 marionetēm. No spēles mērķis ir sakāve pretinieka karali, kuru karalis ir zem nekavējoties uzbrukums (jo "pārbaude"), un nav veids, lai novērstu vai aizstāvēt to no uzbrukums nākamo pārvietoties.
