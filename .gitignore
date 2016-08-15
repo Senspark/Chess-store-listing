@@ -1,0 +1,6 @@
+*.jpg
+itunes/screenshots
+gplay/*.jpg
+gplay/*.png
+gplay/metadata
+itunes/metadata
