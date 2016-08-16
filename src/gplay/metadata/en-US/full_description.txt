@@ -15,3 +15,18 @@ Contact us:
 
 Chess is a board game played between two players. It is played on a chess board, which is a square-checkered board with 64 squares arranged in an eight-by-eight grid.
 At beginning of the game, each player controls sixteen pieces: 1 king, 1 queen, 2 bishops, 2 knights, 2 rooks and 8 pawns. The object of the game is to checkmate the opponent's king, whereby the king is under immediate attack (in 'check') and there is no way to remove or defend it from attack on the next move.
+
+Từ nhà phát hành Gold Miner - Đào Vàng, Shoot Eggs - Bắn Trứng, Lines98... với hàng triệu người chơi.
+
+Tận hưởng và thử thách bản thân với 10 cấp độ Cờ Vua.
+
+Tính năng, đặc điểm:
+- Nhiều bộ quân cờ khác nhau. Hỗ trợ đồ hoạ 2D và 3D.
+- 3 bộ bàn khác nhau tự do thay đổi phù hợp với bộ quân cờ.
+- 10 cấp độ khó thử thách khả năng đánh cờ của bạn.
+- Game có đồ hoạ sắc nét, âm thanh sống động đặc trưng, hình ảnh chỉnh chu.
+- Tương thích trên các hệ điều hành phổ biến hiện nay.
+- Phù hợp với mọi lứa tuổi, mang lại yếu tố giải trí cao.
+
+Cờ vua là một trò chơi giữa hai người chơi. Nó được chơi trên một bàn cờ, với 64 ô hình vuông được sắp xếp trong một mạng lưới 8x8.
+Bắt đầu trò chơi, mỗi người chơi điều khiển mười sáu quân cờ khác nhau: 1 vua, 1 hậu, 2 tượng, 2 mã, 2 xe và 8 con tốt. Mục tiêu của trò chơi là để chiếu vua của đối phương, theo đó nếu vua đang bị tấn công ngay lập tức (đang bị 'chiếu') và không có cách nào để loại bỏ hoặc bảo vệ vua khỏi bị tấn công trong nước đi tiếp theo.
